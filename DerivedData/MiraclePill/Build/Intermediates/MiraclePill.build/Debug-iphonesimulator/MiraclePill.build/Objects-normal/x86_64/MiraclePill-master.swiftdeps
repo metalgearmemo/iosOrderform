@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "ff6b4d01e544cbb9efc5ac3d66fc7bfa"
+build_time: [538528122, 244189000]
+inputs:
+  "/Users/memo/Desktop/MiraclePill/MiraclePill/ViewController.swift": [538528122, 0]
+  "/Users/memo/Desktop/MiraclePill/MiraclePill/AppDelegate.swift": [538436128, 0]
